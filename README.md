@@ -9,6 +9,6 @@
 |--------------------|
 |![468u7n](https://user-images.githubusercontent.com/17411265/85641364-a2bb0c00-b68e-11ea-9a4b-019786361beb.gif)|
 
-# Contact For App Design Services and Pricing
-> -Nzuzomal@gmail.com 
+> # For More Info or Quotation Contact:
+> - ### nzuzomal@gmail.com
 
