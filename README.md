@@ -1,4 +1,4 @@
-> # Beautiful 3D App Navigation:computer:
+> # Beautiful 3D App:computer:
 >
 >> This project showcases a beautiful and interactive user interface layout which enables the user to 
 >> view the app they are using as a 3d model while maintaining full functionality.
