@@ -1,9 +1,9 @@
 > # Beautiful 3D App:computer:
 >
 >> This project showcases a beautiful and interactive user interface layout which enables the user to 
->> view the app as a 3d model while maintaining full functionality.
+>> view an app as a 3d model while maintaining full functionality.
 >>
->> The project code is showcased in this repository above and available for public use :floppy_disk:
+>> The project code is showcased in this repository and is available for public use :floppy_disk:
 
 |3D Navigation Display|
 |--------------------|
