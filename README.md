@@ -9,6 +9,6 @@
 |--------------------|
 |![468u7n](https://user-images.githubusercontent.com/17411265/85641364-a2bb0c00-b68e-11ea-9a4b-019786361beb.gif)|
 
-> # For More Info or Quotation Contact:
-> - ### nzuzomal@gmail.com
+> # For Custom App Services:
+> - ### https://www.upwork.com/o/profiles/users/~0124f711afa49186ee/?s=1110580755107926016 
 
