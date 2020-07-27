@@ -1,4 +1,6 @@
-> - # Please find source code in main.dart file
+> - # Run This Code On Your Browser
+>     To run this code on your browser copy it from the main.dart file then paste
+>     it into [dartpad](https://dartpad.dev/)
 > # Beautiful 3D Navigation App:computer:
 >
 >> This project showcases a beautiful and interactive user interface layout which enables the user to 
